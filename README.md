@@ -1,4 +1,4 @@
-# University Management System (national high school of cyber security 
+# University Management System (national high school of cyber security)
 
 A comprehensive full-stack database project designed by "rabah haddadi and mohamed abbaci "  to manage university operations. This system integrates a robust (PostgreSQL) backend with a user-friendly **Python (Tkinter)** graphical interface to handle student data, academic courses, grading, attendance, and administrative auditing.
 
